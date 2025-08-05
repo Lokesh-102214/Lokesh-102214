@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-Hi there! I'm Lokesh.<br>IITMD'28<br>I'm an ML/AI enthusiast, currently focused on Generative AI and AI agents.<br>
+Hi there! I'm Lokesh.<br>IITMD'28<br>I'm an AI/ML enthusiast, currently focusing on Generative AI.<br>
+<br>I’m currently working 3d Portfolio </br>
+<br>I’m looking to collaborate on GenAI and Web development<br>
 
 
 ## 🌐 Socials:
