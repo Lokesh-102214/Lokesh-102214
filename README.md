@@ -6,4 +6,4 @@ Hi there! I'm Lokesh.<br>IITMD'28<br>I'm an AI/ML enthusiast, currently focusing
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/lokesh-yadav-500801323/)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quan655737@gmail.com) 
+[LinkedIn Profile](https://www.linkedin.com/in/lokesh-yadav-500801323/)][![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quan655737@gmail.com) 
